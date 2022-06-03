@@ -6,3 +6,4 @@ Every Hello World program, in all language I know:
 - JavaScript
 - Python3.x
 - Shell
+- Haskell
